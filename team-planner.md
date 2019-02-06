@@ -75,50 +75,26 @@ Fill out the grid below to determine team roles and areas of ownership</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Jayce</td>
-<td>PM/Gitmaster</td>
-<td><ul>
-<li><p>Owns the trello board, manages planning poker</p></li>
-<li><p>Owns unblocking teammates and fostering collaboration</p></li>
-<li><p>Owns communication with the client</p></li>
-<li><p>(Sometimes) Owns go to market strategy and product marketing</p></li>
-<li><p>Contributes code to the project</p></li>
-</ul></td>
-<td>N/A</td>
+<td>Jayce Azua</td>
+<td>Product Manager/Gitmaster/ Backend Engineer</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td>Jayce</td>
-<td>Front End Engineer</td>
-<td><ul>
-<li><p>Write client side scripts</p></li>
-<li><p>Contribute code to the project</p></li>
-<li><p>Design and QA</p></li>
-</ul></td>
-<td>N/A</td>
+<td>Ruhsane Shawuti</td>
+<td>Lead iOS Engineer</td>
+  <td></td>
+  <td></td>
 </tr>
 <tr class="odd">
-<td>Stephen</td>
-<td>Mobile-iOS</td>
-<td><ul>
-<li></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Ryan</td>
-<td>Backend Engineer</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Ricardo</td>
-<td>Mobile-iOS</td>
+<td>Luc Boettner</td>
+<td>Lead Backend Engineer</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Khallil</td>
-<td>Backend Engineer</td>
+<td>Anwar Azeez</td>
+<td>Lead Frontend Web Engineer</td>
 <td></td>
 <td></td>
 </tr>
