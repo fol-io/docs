@@ -26,13 +26,13 @@ EcmaScript
 
 ## Contributing
 
-Ruhani Shawuti - Lead iOS Engineer & Project Manager
+Ruhani Shawuti - Lead iOS Engineer & Project Manager Assistant
 
 Anwar Azeez - Frontend Engineer 
 
 Luc Boettner - Backend Engineer 
 
-Jayce Azua - Project Manager Assistant & Backend Engineer
+Jayce Azua - Project Manager & Backend Engineer
 
 ## License
 
