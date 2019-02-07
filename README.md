@@ -15,6 +15,8 @@ Ruhsane has been online shopping for clothes and wanted to know how the clothes 
 
 ## Entity Relationship Diagram
 
+![erd](erd.png)
+
 ## Getting Started
 
 ## Deployment
