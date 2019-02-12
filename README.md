@@ -22,9 +22,9 @@ Ruhsane has been online shopping for clothes and wanted to know how the clothes 
 ## Deployment
 
 ## Technlogies
-Swift 4+
-NodeJs
-EcmaScript
+ - Swift 4+
+ - NodeJs
+ - JavaScript
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Anwar Azeez - Frontend Engineer
 
 Luc Boettner - Backend Engineer 
 
-Jayce Azua - Project Manager & Backend Engineer
+Jayce Azua - Project Manager
 
 ## License
 
