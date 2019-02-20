@@ -29,13 +29,11 @@ Ruhsane has been online shopping for clothes and wanted to know how the clothes 
 
 ## Contributing
 
-Ruhani Shawuti - Lead iOS Engineer & Project Manager Assistant
+Ruhani Shawuti - iOS Engineer & Project Manager
 
 Anwar Azeez - Frontend Engineer 
 
 Luc Boettner - Backend Engineer 
-
-Jayce Azua - Project Manager
 
 ## License
 
