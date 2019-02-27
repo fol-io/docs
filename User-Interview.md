@@ -9,34 +9,34 @@
 <h4><strong>What is your age?</strong></h4>
 </li>
 <li>
-<h4><strong>Do you use apps on your phone?</strong><br /><br /></h4>
+<h4><strong>Do you use apps on your phone?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>Have you ever used fashion/clothing related apps? ie. Poshmark, Grailed, RetailMeNot</strong><br /><br /></h4>
+<h4><strong>Have you ever used fashion/clothing related apps? ie. Poshmark, Grailed, RetailMeNot</strong><br /></h4>
 </li>
 <li>
-<h4><strong>How often do you use apps like these?</strong><br /><br /></h4>
+<h4><strong>How often do you use apps like these?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>What kind of apps do you use?</strong><br /><br /></h4>
+<h4><strong>What kind of apps do you use?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>How satisfied are you with shopping for clothing online?</strong><br /><br /></h4>
+<h4><strong>How satisfied are you with shopping for clothing online?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>What kind of questions or difficulties have you had when doing this in the past?</strong><br /><br /></h4>
+<h4><strong>What kind of questions or difficulties have you had when doing this in the past?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>What worked well for you?</strong><br /><br /></h4>
+<h4><strong>What worked well for you?</strong><br /></h4>
 </li>
 <li>
-<h4><strong>What would you most want to change about apps which allow you to see or buy clothing?</strong><br /><br /></h4>
+<h4><strong>What would you most want to change about apps which allow you to see or buy clothing?</strong><br /></h4>
 </li>
 <li>
 <h4><strong>Would you be willing to use an app that allows you to try on clothes/outfits from home, using your camera </strong></h4>
 </li>
 <li>
-<h4><strong>without the need to go to the store?</strong><br /><br /></h4>
+<h4><strong>without the need to go to the store?</strong><br /></h4>
 </li>
 <li>
 <h4><span style="font-family: arial, helvetica, sans-serif;"><strong>Would you be willing to sign-up for a beta once it was available?</strong></span></h4>
