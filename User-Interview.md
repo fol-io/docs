@@ -717,6 +717,12 @@
 <br>
 Interviewee: <Strike>Jamie</Strike>
 <br>
+Interviewee: <Strike>Jacob</Strike>
+<br>
+Interviewee: <Strike>Cherish</Strike>
+<br>
+Interviewee: <Strike>Kira</Strike>
+<br>
 Interviewee: <Strike>Marisa</Strike>
 <br>
 Interviewee: <Strike>Allison</Strike>
