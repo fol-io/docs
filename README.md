@@ -1,7 +1,7 @@
 # TryMe
 Online shopping for clothes has been made simple with a mannequin clone on your phone that you can style however you want. See what matches and looks good to be in vogue!
 
-## Features: 
+## Mobile App Features: 
 Sign up/Log in
 Click on torso part or lower body part of the mannequin to add pictures of clothing to these body parts.
 Customize buttons to highlight only the clothing part of a picture so we can crop the background out.
