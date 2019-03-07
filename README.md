@@ -1,5 +1,12 @@
 # TryMe
-Online shopping for clothes has been made simple with a virtual clone of yourself. See what matches and looks good to be in vogue! 
+Online shopping for clothes has been made simple with a mannequin clone on your phone that you can style however you want. See what matches and looks good to be in vogue!
+
+## Features: 
+Sign up/Log in
+Click on torso part or lower body part of the mannequin to add pictures of clothing to these body parts.
+Customize buttons to highlight only the clothing part of a picture so we can crop the background out.
+Try moving around, stretching and shrinking the clothing to match the mannequin - Gesture recognition.
+Save the final outlook to your phone library using the save button!
 
 ## Problem
 MVP: Not knowing how the outfit will look overall when shopping online; 
